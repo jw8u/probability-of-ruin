@@ -4,5 +4,5 @@ Goal is to replicate some results from a paper via simulations. In particular, 3
 
 ## Usage
 ```
-Rscript ES.R
+Rscript ProbabilityofRuin.R
 ```
